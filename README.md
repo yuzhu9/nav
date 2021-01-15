@@ -2,7 +2,7 @@
 **导航**
 
 ## 预览地址：
-
+http://zhengyuan.xyz/nav/src/index.html
 
 ## 项目简介：
 * 手机端和PC端通用的简洁导航页
